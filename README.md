@@ -1,16 +1,40 @@
-### Hi there 👋
+<h1>Hi 👋, I'm Timur!</h1>
+<h3 align="center">Beginner backend developer</h3>
 
-<!--
-**T1murCoder/T1murCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Achievements
+![Kyu](https://www.codewars.com/users/Magirus/badges/large)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=t1murcoder&show_icons=true&locale=en&layout=compact" alt="t1murcoder" /></p>
 
-Here are some ideas to get you started:
+## Backend tools
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="android development" alt="android" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="flask" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite" alt="sqlite" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="sqlalchemy" alt="sqlalchemy" width="50" height="50"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Frontend
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap5" alt="bootstrap5" width="50" height="50"/>
+  
+</div>
+
+## Others
+<div>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="postman" alt="postman" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="photoshop" alt="photoshop" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" alt="qt" width="50" height="50"/>
+</div>
+
+### My contacts
+<p align="left">
+  <a href="https://www.github.com/T1murCoder" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=t1murcoder&label=Profile%20views&color=0e75b6&style=flat" alt="t1murcoder" /> </p>

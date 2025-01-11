@@ -38,7 +38,8 @@ Hi! My name is Timur and I am a full-stack developer. I develop mobile applicati
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="why are u reading that?" alt="kotlin" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="if u want to ask something" alt="java" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="you can reach me by" alt="python" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="telegram" alt="cpp" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="telegram" alt="js" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="check next" alt="cpp" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="is it an easter egg?" alt="c" width="30" height="30"/>
 </div>
 

@@ -1,7 +1,7 @@
 # Hello there, I'm Timur  <img src="images/animated/hand_waving.gif" width="28px" height="28px">
 
 <div align="center">
-<img src="images/animated/mario_dev.gif" alt="Workspace" width="60%"/><br> 
+<img src="images/animated/mario_dev.gif" alt="Workspace" width="100%"/><br> 
 </div>
 Hi! My name is Timur and I am a full-stack developer. I develop mobile applications and servers for them, websites, and desktop applications. I also have DevOps skills.
 <!-- Привет! Меня зовут Тимур и я full-stack разработчик. Я занимаюсь разработкой мобильных приложений и серверов для них, сайтов, десктопных приложений. Также имею навыки в сфере DevOps. -->

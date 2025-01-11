@@ -70,7 +70,7 @@ Hi! My name is Timur and I am a full-stack developer. I develop mobile applicati
 
 ## Achievements
 
-- In May 2023, I completed course on Python development from Yandex Academy. [See...](https://drive.google.com/file/d/1vDwvyS5NoZ7wncqiBX7jBIXW53Ae9lwh/view?usp=sharing)
+- In May 2023, I completed course on Python development from Yandex Lyceum. [See...](https://drive.google.com/file/d/1vDwvyS5NoZ7wncqiBX7jBIXW53Ae9lwh/view?usp=sharing)
 - In May 2024, I completed course on Java Mobile development from Samsung IT School. [See...](https://drive.google.com/file/d/1XIObFvmI_j80IeLZnyAck-kpvEUl5SRK/view?usp=sharing)
 - In June 2024, I won the mobile app competition from Samsung IT School [See...](https://drive.google.com/file/d/1dL51xsbNRQbJGuysn-NzRSMvO6f5BrDb/view?usp=sharing)
 
